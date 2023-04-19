@@ -1504,6 +1504,10 @@ blockquote {
 
 /* Images */
 
+#alienImage {
+	width: 300px;
+}
+
 .pics-right {
 	float: right;
 	margin: 10px 0 20px 20px;
